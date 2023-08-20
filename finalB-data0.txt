@@ -1,0 +1,10 @@
+Johnson 93 94 89 77 97
+Aniston 80 90 95 93 48
+Cooper 92 83 30 69 87
+Gupta 78 81 11 90 73
+Blair 23 45 96 38 59
+Clark 94 95 89 77 97
+Kennedy 77 31 52 74 83
+Bronson 92 83 35 69 87
+Sunny 84 89 96 92 48
+Smith 85 72 49 75 63
